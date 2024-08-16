@@ -1,0 +1,6 @@
+.vscode
+vga_img_generator/*debug*
+vga_img_generator/*error*
+applications/build/*
+applications/build/.*
+applications/build/CMakeFiles/*
